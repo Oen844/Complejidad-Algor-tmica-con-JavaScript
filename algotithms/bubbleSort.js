@@ -17,6 +17,3 @@
     return arreglo;
   }
 
-  const hola = () => {
-      
-  }
