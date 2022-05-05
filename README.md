@@ -1,4 +1,4 @@
-# Complejidad-Algor-tmica-con-JavaScript
+# Complejidad Algoritmica con JavaScript
 
 En este curso aprenderás la diferencia del costo temporal y el espacial de cada algoritmo que diseñes. Esto te dará una ventaja en el uso de recursos de cómputo y eficiencia en velocidad dentro de tus programas. Aprende esto junto a tu profesor Marcelo Arias.
 
